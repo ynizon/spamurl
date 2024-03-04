@@ -1,0 +1,8 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.23",
+        "voku/simple_html_dom": "^4.8",
+        "voku/portable-utf8": "^6.0",
+      "ext-curl": "*"
+    }
+}
