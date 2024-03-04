@@ -3,7 +3,7 @@
 ## Objectif
 Spammer les formulaires des sites d'arnaques.
 Le but étant de générer des fausses informations afin que les 
-escrocs perdent du temps à retrouver les vrais.
+escrocs perdent du temps à retrouver les vraies.
 
 ## Installation
 

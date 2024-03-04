@@ -18,7 +18,7 @@ foreach ($urls as $url)
 
 class SpamUrl
 {
-    protected $ip = '93.4.72.171';//Protect your own IP
+    protected $ip = '';//Protect your own IP
     protected $locale = 'fr_FR';
     protected $url = '';
     protected $faker;
